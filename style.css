@@ -1,0 +1,33 @@
+html {
+    background-image: none;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin: 50px 0 50px 0;
+}
+
+img {
+    margin: 10px;
+    max-width: 500px;
+}
+
+#mainImgContainer {
+    background-color: black;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+h1, h2, h3 {
+    font-family: 'Pangolin';
+}
+
+h4, h5 {
+    margin: 10px;
+}
